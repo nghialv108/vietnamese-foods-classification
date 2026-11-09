@@ -1,0 +1,105 @@
+split,class,filename,reason
+train,Ca kho to,86.jpg,trung
+train,Banh can,286.jpg,khac nhan
+train,Banh khot,274.jpg,khac nhan
+val,Banh can,177.jpg,trung
+test,Banh can,369.jpg,trung
+train,Banh can,338.jpg,khac nhan
+val,Banh khot,316.jpg,khac nhan
+val,Banh can,7.jpg,trung
+test,Banh can,112.jpg,trung
+train,Com tam,133.jpg,trung
+test,Banh chung,113.jpg,trung
+train,Banh chung,79.jpg,khac nhan
+test,Banh tet,463.jpg,khac nhan
+train,Nem chua,454.jpg,khac nhan
+test,Banh cuon,535.jpg,khac nhan
+train,Bun bo Hue,1173.jpg,khac nhan
+test,Mi quang,627.jpg,khac nhan
+train,Bun bo Hue,1204.jpg,khac nhan
+train,Pho,722.jpg,khac nhan
+train,Bun bo Hue,1292.jpg,khac nhan
+train,Bun rieu,179.jpg,khac nhan
+train,Bun bo Hue,64.jpg,khac nhan
+test,Bun rieu,786.jpg,khac nhan
+train,Bun bo Hue,1262.jpg,khac nhan
+test,Banh cuon,162.jpg,khac nhan
+train,Bun bo Hue,812.jpg,khac nhan
+test,Bun rieu,725.jpg,khac nhan
+train,Bun bo Hue,663.jpg,khac nhan
+train,Bun rieu,625.jpg,khac nhan
+val,Banh xeo,520.jpg,khac nhan
+train,Banh duc,222.jpg,khac nhan
+train,Banh cuon,341.jpg,khac nhan
+train,Banh duc,398.jpg,khac nhan
+train,Banh bot loc,635.jpg,khac nhan
+test,Banh beo,270.jpg,khac nhan
+train,Banh beo,157.jpg,khac nhan
+train,Banh bot loc,381.jpg,khac nhan
+train,Banh beo,77.jpg,khac nhan
+train,Banh gio,72.jpg,khac nhan
+train,Banh beo,539.jpg,khac nhan
+train,Banh bot loc,565.jpg,khac nhan
+train,Banh cuon,266.jpg,khac nhan
+train,Banh gio,376.jpg,khac nhan
+train,Banh cuon,357.jpg,khac nhan
+test,Banh duc,236.jpg,khac nhan
+val,Pho,797.jpg,trung
+train,Hu tieu,499.jpg,khac nhan
+val,Chao long,87.jpg,khac nhan
+train,Hu tieu,598.jpg,trung
+train,Hu tieu,557.jpg,khac nhan
+test,Banh canh,338.jpg,khac nhan
+test,Bun rieu,396.jpg,khac nhan
+train,Hu tieu,390.jpg,khac nhan
+test,Mi quang,216.jpg,khac nhan
+train,Cao lau,36.jpg,khac nhan
+test,Mi quang,446.jpg,khac nhan
+train,Cao lau,401.jpg,khac nhan
+test,Mi quang,633.jpg,khac nhan
+train,Banh bot loc,655.jpg,khac nhan
+test,Banh gio,528.jpg,khac nhan
+train,Banh bot loc,399.jpg,khac nhan
+train,Goi cuon,815.jpg,khac nhan
+train,Banh canh,861.jpg,khac nhan
+val,Bun rieu,764.jpg,khac nhan
+train,Banh canh,332.jpg,trung
+train,Banh canh,624.jpg,khac nhan
+test,Hu tieu,402.jpg,khac nhan
+train,Banh canh,580.jpg,trung
+test,Banh pia,58.jpg,trung
+test,Banh pia,43.jpg,trung
+test,Mi quang,840.jpg,trung
+train,Mi quang,880.jpg,trung
+train,Mi quang,788.jpg,trung
+test,Mi quang,512.jpg,trung
+val,Mi quang,826.jpg,trung
+train,Banh gio,187.jpg,khac nhan
+test,Banh duc,261.jpg,khac nhan
+train,Banh gio,310.jpg,khac nhan
+val,Banh duc,102.jpg,khac nhan
+train,Banh mi,1174.jpg,khac nhan
+test,Goi cuon,770.jpg,khac nhan
+test,Banh khot,715.jpg,trung
+train,Banh khot,672.jpg,khac nhan
+test,Banh bot loc,372.jpg,khac nhan
+train,Banh khot,587.jpg,khac nhan
+val,Banh can,554.jpg,khac nhan
+train,Banh trang nuong,156.jpg,trung
+train,Canh chua,527.jpg,trung
+train,Canh chua,27.jpg,trung
+train,Canh chua,574.jpg,khac nhan
+val,Ca kho to,391.jpg,khac nhan
+test,Hu tieu,231.jpg,trung
+val,Hu tieu,249.jpg,khac nhan
+test,Banh canh,608.jpg,khac nhan
+test,Banh pia,11.jpg,trung
+val,Mi quang,58.jpg,trung
+val,Banh gio,362.jpg,khac nhan
+test,Banh duc,64.jpg,khac nhan
+test,Banh chung,257.jpg,khac nhan
+test,Banh tet,421.jpg,khac nhan
+test,Banh chung,333.jpg,khac nhan
+test,Banh tet,445.jpg,khac nhan
+test,Bun bo Hue,471.jpg,khac nhan
+test,Bun rieu,275.jpg,khac nhan
